@@ -7,26 +7,6 @@ import streamlit as st
 st.balloons()
 
 """
-# Cointel Terms of Service
-You can see we are working in our `/streamlit_app.py` as a template of making a crypto currency dashboard :heart:
-Checkout our [Cointel Finance Github](https://github.com/cointelfinance) & check out our partner [Streamlit] (https://docs.streamlit.io).
-In the meantime, below is an example of what you can do with just a few lines of code:
-"""
-
-"""
-## Web App
-You can see we are working in our `/streamlit_app.py` as a template of making a crypto currency dashboard :heart:
-Checkout our [Cointel Finance Github](https://github.com/cointelfinance) & check out our partner [Streamlit] (https://docs.streamlit.io).
-In the meantime, below is an example of what you can do with just a few lines of code:
-"""
-
-"""
-## Developer API
-You can see we are working in our `/streamlit_app.py` as a template of making a crypto currency dashboard :heart:
-Checkout our [Cointel Finance Github](https://github.com/cointelfinance) & check out our partner [Streamlit] (https://docs.streamlit.io).
-In the meantime, below is an example of what you can do with just a few lines of code:
-"""
-"""
 Cointel Finance Web Site Terms and Conditions
 (“Website Terms of Use” or “Terms of Use”)
 Latest Version: 20 Febuary 2022
